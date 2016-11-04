@@ -22,43 +22,43 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="ofA-kj-WcX">
-                                <rect key="frame" x="0.0" y="60" width="320" height="508"/>
+                                <rect key="frame" x="0.0" y="65" width="320" height="503"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GEu-mW-1dF">
-                                        <rect key="frame" x="0.0" y="0.0" width="320" height="254"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="320" height="251.5"/>
                                         <subviews>
                                             <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFit" image="body" translatesAutoresizingMaskIntoConstraints="NO" id="Gm6-Ae-BCC">
-                                                <rect key="frame" x="0.0" y="0.0" width="320" height="254"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="320" height="251.5"/>
                                             </imageView>
                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="shoes" translatesAutoresizingMaskIntoConstraints="NO" id="Vvf-GK-K1h">
-                                                <rect key="frame" x="0.0" y="0.0" width="320" height="254"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="320" height="251.5"/>
                                             </imageView>
                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="mouth" translatesAutoresizingMaskIntoConstraints="NO" id="B2T-kv-2N3">
-                                                <rect key="frame" x="0.0" y="0.0" width="320" height="254"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="320" height="251.5"/>
                                             </imageView>
                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="nose" translatesAutoresizingMaskIntoConstraints="NO" id="BX8-Ae-yfy">
-                                                <rect key="frame" x="0.0" y="0.0" width="320" height="254"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="320" height="251.5"/>
                                             </imageView>
                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="hat" translatesAutoresizingMaskIntoConstraints="NO" id="N6e-i5-jrZ">
-                                                <rect key="frame" x="0.0" y="0.0" width="320" height="254"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="320" height="251.5"/>
                                             </imageView>
                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="eyes" translatesAutoresizingMaskIntoConstraints="NO" id="Q1Q-fu-aEw">
-                                                <rect key="frame" x="0.0" y="0.0" width="320" height="254"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="320" height="251.5"/>
                                             </imageView>
                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="eyebrows" translatesAutoresizingMaskIntoConstraints="NO" id="BgM-Xr-gHF">
-                                                <rect key="frame" x="0.0" y="0.0" width="320" height="254"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="320" height="251.5"/>
                                             </imageView>
                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="glasses" translatesAutoresizingMaskIntoConstraints="NO" id="iGK-O9-pY9">
-                                                <rect key="frame" x="0.0" y="0.0" width="320" height="254"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="320" height="251.5"/>
                                             </imageView>
                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arms" translatesAutoresizingMaskIntoConstraints="NO" id="rl5-uO-vRh">
-                                                <rect key="frame" x="0.0" y="0.0" width="320" height="254"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="320" height="251.5"/>
                                             </imageView>
                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="mustache" translatesAutoresizingMaskIntoConstraints="NO" id="M6M-Bd-s2Y">
-                                                <rect key="frame" x="0.0" y="0.0" width="320" height="254"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="320" height="251.5"/>
                                             </imageView>
                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ears" translatesAutoresizingMaskIntoConstraints="NO" id="SsY-4P-Xmc">
-                                                <rect key="frame" x="0.0" y="0.0" width="320" height="254"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="320" height="251.5"/>
                                             </imageView>
                                         </subviews>
                                         <constraints>
@@ -109,187 +109,271 @@
                                         </constraints>
                                     </view>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PgF-WJ-1hZ">
-                                        <rect key="frame" x="0.0" y="254" width="320" height="254"/>
+                                        <rect key="frame" x="0.0" y="251.5" width="320" height="251.5"/>
                                         <subviews>
-                                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="voA-Xu-oPC">
-                                                <rect key="frame" x="100" y="45" width="51" height="31"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
-                                                <connections>
-                                                    <action selector="hatSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="fLR-D2-3SD"/>
-                                                </connections>
-                                            </switch>
-                                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="F1z-aC-m0k">
-                                                <rect key="frame" x="100" y="85" width="51" height="31"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
-                                                <connections>
-                                                    <action selector="earsSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="OWT-bc-EH3"/>
-                                                </connections>
-                                            </switch>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Ears" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="stl-dB-gRW">
-                                                <rect key="frame" x="23" y="84" width="37" height="35"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
-                                                <nil key="textColor"/>
-                                                <nil key="highlightedColor"/>
-                                            </label>
-                                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Asf-AX-rWi">
-                                                <rect key="frame" x="100" y="125" width="51" height="31"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
-                                                <connections>
-                                                    <action selector="armsSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="707-em-Be6"/>
-                                                </connections>
-                                            </switch>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Arms" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b7H-He-994">
-                                                <rect key="frame" x="23" y="119" width="50" height="41"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
-                                                <nil key="textColor"/>
-                                                <nil key="highlightedColor"/>
-                                            </label>
-                                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="zQu-NQ-Pxt">
-                                                <rect key="frame" x="100" y="161" width="51" height="31"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
-                                                <connections>
-                                                    <action selector="eyebrowsSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="6LL-hf-hJu"/>
-                                                </connections>
-                                            </switch>
-                                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="MLc-oh-CBe">
-                                                <rect key="frame" x="248" y="44" width="51" height="31"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
-                                                <connections>
-                                                    <action selector="glassesSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="QdO-r2-0gH"/>
-                                                </connections>
-                                            </switch>
-                                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mb6-rm-dcG">
-                                                <rect key="frame" x="248" y="84" width="51" height="31"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
-                                                <connections>
-                                                    <action selector="mouthSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="hD1-eW-yF4"/>
-                                                </connections>
-                                            </switch>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Mouth" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PAM-hW-CgG">
-                                                <rect key="frame" x="170" y="84" width="60" height="32"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
-                                                <nil key="textColor"/>
-                                                <nil key="highlightedColor"/>
-                                            </label>
-                                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="lcC-zY-9Vz">
-                                                <rect key="frame" x="248" y="124" width="51" height="31"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
-                                                <connections>
-                                                    <action selector="noseSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="s5N-sM-E2c"/>
-                                                </connections>
-                                            </switch>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Nose" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kIR-Im-mZA">
-                                                <rect key="frame" x="170" y="124" width="40" height="32"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
-                                                <nil key="textColor"/>
-                                                <nil key="highlightedColor"/>
-                                            </label>
-                                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="poJ-TK-Taa">
-                                                <rect key="frame" x="248" y="163" width="51" height="31"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
-                                                <connections>
-                                                    <action selector="mustacheSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="i7R-mR-bLp"/>
-                                                </connections>
-                                            </switch>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Mustache" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RzG-8d-DCD">
-                                                <rect key="frame" x="170" y="161" width="76" height="35"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
-                                                <nil key="textColor"/>
-                                                <nil key="highlightedColor"/>
-                                            </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Shoes" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zvM-we-Q3Z">
-                                                <rect key="frame" x="170" y="200" width="48" height="34"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
-                                                <nil key="textColor"/>
-                                                <nil key="highlightedColor"/>
-                                            </label>
-                                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="v6D-5p-BZz">
-                                                <rect key="frame" x="248" y="198" width="51" height="31"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
-                                                <connections>
-                                                    <action selector="shoesSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="CPa-Co-DdM"/>
-                                                </connections>
-                                            </switch>
-                                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="1b3-qw-mEB">
-                                                <rect key="frame" x="100" y="198" width="51" height="31"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
-                                                <connections>
-                                                    <action selector="eyesSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="b0B-JJ-AC9"/>
-                                                </connections>
-                                            </switch>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Eyebrows" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1DP-dy-i1q">
-                                                <rect key="frame" x="23" y="159" width="74" height="34"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
-                                                <nil key="textColor"/>
-                                                <nil key="highlightedColor"/>
-                                            </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Glasses" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="X4m-q5-j92">
-                                                <rect key="frame" x="170" y="41" width="60" height="35"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
-                                                <nil key="textColor"/>
-                                                <nil key="highlightedColor"/>
-                                            </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Eyes" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Nyk-Jy-Pkr">
-                                                <rect key="frame" x="23" y="198" width="37" height="34"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
-                                                <nil key="textColor"/>
-                                                <nil key="highlightedColor"/>
-                                            </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Hat" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Aff-Oh-OUa">
-                                                <rect key="frame" x="23" y="41" width="37" height="30"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
-                                                <nil key="textColor"/>
-                                                <nil key="highlightedColor"/>
-                                            </label>
+                                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" translatesAutoresizingMaskIntoConstraints="NO" id="U4t-DU-ugi">
+                                                <rect key="frame" x="8" y="8" width="304" height="235.5"/>
+                                                <subviews>
+                                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" alignment="top" translatesAutoresizingMaskIntoConstraints="NO" id="KNV-Ke-kk6">
+                                                        <rect key="frame" x="0.0" y="0.0" width="152" height="235.5"/>
+                                                        <subviews>
+                                                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hds-Ce-KP1">
+                                                                <rect key="frame" x="0.0" y="0.0" width="124" height="47"/>
+                                                                <subviews>
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hat" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Aff-Oh-OUa">
+                                                                        <rect key="frame" x="0.0" y="0.0" width="75" height="47"/>
+                                                                        <constraints>
+                                                                            <constraint firstAttribute="width" constant="75" id="KYG-ZQ-eKq"/>
+                                                                        </constraints>
+                                                                        <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
+                                                                        <nil key="textColor"/>
+                                                                        <nil key="highlightedColor"/>
+                                                                    </label>
+                                                                    <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="voA-Xu-oPC">
+                                                                        <rect key="frame" x="75" y="0.0" width="51" height="47"/>
+                                                                        <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
+                                                                        <connections>
+                                                                            <action selector="hatSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="fLR-D2-3SD"/>
+                                                                        </connections>
+                                                                    </switch>
+                                                                </subviews>
+                                                            </stackView>
+                                                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zjK-l4-XLI">
+                                                                <rect key="frame" x="0.0" y="47" width="124" height="47"/>
+                                                                <subviews>
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Ears" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="stl-dB-gRW">
+                                                                        <rect key="frame" x="0.0" y="0.0" width="75" height="47"/>
+                                                                        <constraints>
+                                                                            <constraint firstAttribute="width" constant="75" id="eoI-kv-ALf"/>
+                                                                        </constraints>
+                                                                        <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
+                                                                        <nil key="textColor"/>
+                                                                        <nil key="highlightedColor"/>
+                                                                    </label>
+                                                                    <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="F1z-aC-m0k">
+                                                                        <rect key="frame" x="75" y="0.0" width="51" height="47"/>
+                                                                        <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
+                                                                        <connections>
+                                                                            <action selector="earsSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="OWT-bc-EH3"/>
+                                                                        </connections>
+                                                                    </switch>
+                                                                </subviews>
+                                                            </stackView>
+                                                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="l7D-5A-AyI">
+                                                                <rect key="frame" x="0.0" y="94" width="124" height="47.5"/>
+                                                                <subviews>
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Arms" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b7H-He-994">
+                                                                        <rect key="frame" x="0.0" y="0.0" width="75" height="47.5"/>
+                                                                        <constraints>
+                                                                            <constraint firstAttribute="width" constant="75" id="Gtz-iJ-wuY"/>
+                                                                        </constraints>
+                                                                        <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
+                                                                        <nil key="textColor"/>
+                                                                        <nil key="highlightedColor"/>
+                                                                    </label>
+                                                                    <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Asf-AX-rWi">
+                                                                        <rect key="frame" x="75" y="0.0" width="51" height="47.5"/>
+                                                                        <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
+                                                                        <connections>
+                                                                            <action selector="armsSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="707-em-Be6"/>
+                                                                        </connections>
+                                                                    </switch>
+                                                                </subviews>
+                                                            </stackView>
+                                                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jsG-Zf-kMe">
+                                                                <rect key="frame" x="0.0" y="141.5" width="124" height="47"/>
+                                                                <subviews>
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Eyebrows" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1DP-dy-i1q">
+                                                                        <rect key="frame" x="0.0" y="0.0" width="75" height="47"/>
+                                                                        <constraints>
+                                                                            <constraint firstAttribute="width" constant="75" id="ZoQ-wj-7dB"/>
+                                                                        </constraints>
+                                                                        <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
+                                                                        <nil key="textColor"/>
+                                                                        <nil key="highlightedColor"/>
+                                                                    </label>
+                                                                    <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="zQu-NQ-Pxt">
+                                                                        <rect key="frame" x="75" y="0.0" width="51" height="47"/>
+                                                                        <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
+                                                                        <connections>
+                                                                            <action selector="eyebrowsSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="6LL-hf-hJu"/>
+                                                                        </connections>
+                                                                    </switch>
+                                                                </subviews>
+                                                            </stackView>
+                                                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="y7w-bz-R3i">
+                                                                <rect key="frame" x="0.0" y="188.5" width="124" height="47"/>
+                                                                <subviews>
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Eyes" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Nyk-Jy-Pkr">
+                                                                        <rect key="frame" x="0.0" y="0.0" width="75" height="47"/>
+                                                                        <constraints>
+                                                                            <constraint firstAttribute="width" constant="75" id="ago-TG-tWp"/>
+                                                                        </constraints>
+                                                                        <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
+                                                                        <nil key="textColor"/>
+                                                                        <nil key="highlightedColor"/>
+                                                                    </label>
+                                                                    <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="1b3-qw-mEB">
+                                                                        <rect key="frame" x="75" y="0.0" width="51" height="47"/>
+                                                                        <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
+                                                                        <connections>
+                                                                            <action selector="eyesSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="b0B-JJ-AC9"/>
+                                                                        </connections>
+                                                                    </switch>
+                                                                </subviews>
+                                                            </stackView>
+                                                        </subviews>
+                                                    </stackView>
+                                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" alignment="top" translatesAutoresizingMaskIntoConstraints="NO" id="wOy-Vy-pCJ">
+                                                        <rect key="frame" x="152" y="0.0" width="152" height="235.5"/>
+                                                        <subviews>
+                                                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="noB-3z-hOh">
+                                                                <rect key="frame" x="0.0" y="0.0" width="124" height="47"/>
+                                                                <subviews>
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Glasses" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="X4m-q5-j92">
+                                                                        <rect key="frame" x="0.0" y="0.0" width="75" height="47"/>
+                                                                        <constraints>
+                                                                            <constraint firstAttribute="width" constant="75" id="gsD-zp-OMG"/>
+                                                                        </constraints>
+                                                                        <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
+                                                                        <nil key="textColor"/>
+                                                                        <nil key="highlightedColor"/>
+                                                                    </label>
+                                                                    <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="MLc-oh-CBe">
+                                                                        <rect key="frame" x="75" y="0.0" width="51" height="47"/>
+                                                                        <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
+                                                                        <connections>
+                                                                            <action selector="glassesSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="QdO-r2-0gH"/>
+                                                                        </connections>
+                                                                    </switch>
+                                                                </subviews>
+                                                            </stackView>
+                                                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GH4-lz-BXs">
+                                                                <rect key="frame" x="0.0" y="47" width="124" height="47"/>
+                                                                <subviews>
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Mouth" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PAM-hW-CgG">
+                                                                        <rect key="frame" x="0.0" y="0.0" width="75" height="47"/>
+                                                                        <constraints>
+                                                                            <constraint firstAttribute="width" constant="75" id="nhm-ER-1Rz"/>
+                                                                        </constraints>
+                                                                        <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
+                                                                        <nil key="textColor"/>
+                                                                        <nil key="highlightedColor"/>
+                                                                    </label>
+                                                                    <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mb6-rm-dcG">
+                                                                        <rect key="frame" x="75" y="0.0" width="51" height="47"/>
+                                                                        <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
+                                                                        <connections>
+                                                                            <action selector="mouthSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="hD1-eW-yF4"/>
+                                                                        </connections>
+                                                                    </switch>
+                                                                </subviews>
+                                                            </stackView>
+                                                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Isa-kr-Qi2">
+                                                                <rect key="frame" x="0.0" y="94" width="124" height="47.5"/>
+                                                                <subviews>
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nose" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kIR-Im-mZA">
+                                                                        <rect key="frame" x="0.0" y="0.0" width="75" height="47.5"/>
+                                                                        <constraints>
+                                                                            <constraint firstAttribute="width" constant="75" id="Wvw-aC-RVo"/>
+                                                                        </constraints>
+                                                                        <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
+                                                                        <nil key="textColor"/>
+                                                                        <nil key="highlightedColor"/>
+                                                                    </label>
+                                                                    <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="lcC-zY-9Vz">
+                                                                        <rect key="frame" x="75" y="0.0" width="51" height="47.5"/>
+                                                                        <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
+                                                                        <connections>
+                                                                            <action selector="noseSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="s5N-sM-E2c"/>
+                                                                        </connections>
+                                                                    </switch>
+                                                                </subviews>
+                                                            </stackView>
+                                                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="UGA-er-8vr">
+                                                                <rect key="frame" x="0.0" y="141.5" width="124" height="47"/>
+                                                                <subviews>
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Mustache" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RzG-8d-DCD">
+                                                                        <rect key="frame" x="0.0" y="0.0" width="75" height="47"/>
+                                                                        <constraints>
+                                                                            <constraint firstAttribute="width" constant="75" id="xwA-ar-cCW"/>
+                                                                        </constraints>
+                                                                        <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
+                                                                        <nil key="textColor"/>
+                                                                        <nil key="highlightedColor"/>
+                                                                    </label>
+                                                                    <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="poJ-TK-Taa">
+                                                                        <rect key="frame" x="75" y="0.0" width="51" height="47"/>
+                                                                        <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
+                                                                        <connections>
+                                                                            <action selector="mustacheSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="i7R-mR-bLp"/>
+                                                                        </connections>
+                                                                    </switch>
+                                                                </subviews>
+                                                            </stackView>
+                                                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ldz-KY-maA">
+                                                                <rect key="frame" x="0.0" y="188.5" width="124" height="47"/>
+                                                                <subviews>
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Shoes" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zvM-we-Q3Z">
+                                                                        <rect key="frame" x="0.0" y="0.0" width="75" height="47"/>
+                                                                        <constraints>
+                                                                            <constraint firstAttribute="width" constant="75" id="ZXp-Ip-gyr"/>
+                                                                        </constraints>
+                                                                        <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="29"/>
+                                                                        <nil key="textColor"/>
+                                                                        <nil key="highlightedColor"/>
+                                                                    </label>
+                                                                    <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="v6D-5p-BZz">
+                                                                        <rect key="frame" x="75" y="0.0" width="51" height="47"/>
+                                                                        <color key="onTintColor" red="0.5" green="0.2960946593880518" blue="0.080472877959152589" alpha="1" colorSpace="calibratedRGB"/>
+                                                                        <connections>
+                                                                            <action selector="shoesSwitch:" destination="BYZ-38-t0r" eventType="valueChanged" id="CPa-Co-DdM"/>
+                                                                        </connections>
+                                                                    </switch>
+                                                                </subviews>
+                                                            </stackView>
+                                                        </subviews>
+                                                    </stackView>
+                                                </subviews>
+                                            </stackView>
                                         </subviews>
+                                        <constraints>
+                                            <constraint firstItem="U4t-DU-ugi" firstAttribute="top" secondItem="PgF-WJ-1hZ" secondAttribute="top" constant="8" id="YBL-42-1dD"/>
+                                            <constraint firstItem="U4t-DU-ugi" firstAttribute="leading" secondItem="PgF-WJ-1hZ" secondAttribute="leading" constant="8" id="evs-x0-xaI"/>
+                                            <constraint firstAttribute="trailing" secondItem="U4t-DU-ugi" secondAttribute="trailing" constant="8" id="j29-UN-bqS"/>
+                                            <constraint firstAttribute="bottom" secondItem="U4t-DU-ugi" secondAttribute="bottom" constant="8" id="n7H-Jb-sed"/>
+                                        </constraints>
                                     </view>
                                 </subviews>
                                 <variation key="heightClass=compact" axis="horizontal"/>
                             </stackView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="M3n-XY-Yjh">
-                                <rect key="frame" x="0.0" y="0.0" width="320" height="60"/>
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="65"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Mr. Potato Head" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="I0A-to-W5J">
-                                        <rect key="frame" x="79" y="10.5" width="163.5" height="40.5"/>
+                                        <rect key="frame" x="78.5" y="24.5" width="163.5" height="40.5"/>
                                         <fontDescription key="fontDescription" name="SavoyeLetPlain" family="Savoye LET" pointSize="34"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                 </subviews>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="60" id="3nS-rf-ZcN"/>
-                                    <constraint firstItem="I0A-to-W5J" firstAttribute="leading" secondItem="M3n-XY-Yjh" secondAttribute="leading" constant="79" id="Ncd-tC-Lg2"/>
-                                    <constraint firstItem="I0A-to-W5J" firstAttribute="centerY" secondItem="M3n-XY-Yjh" secondAttribute="centerY" id="V6D-ok-l4y"/>
+                                    <constraint firstItem="I0A-to-W5J" firstAttribute="centerX" secondItem="M3n-XY-Yjh" secondAttribute="centerX" id="TEG-tC-sas"/>
+                                    <constraint firstAttribute="height" constant="65" id="YTv-cH-ZIY"/>
+                                    <constraint firstAttribute="bottom" secondItem="I0A-to-W5J" secondAttribute="bottom" id="tc8-69-luG"/>
                                 </constraints>
                             </view>
                         </subviews>
                         <color key="backgroundColor" red="0.68235294117647061" green="0.8666666666666667" blue="0.77647058823529413" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="M3n-XY-Yjh" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="1BI-MA-SBr"/>
+                            <constraint firstItem="M3n-XY-Yjh" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="41I-Rr-Byl"/>
                             <constraint firstItem="ofA-kj-WcX" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="Bo4-Rw-iMz"/>
                             <constraint firstAttribute="trailing" secondItem="ofA-kj-WcX" secondAttribute="trailing" id="DaN-2O-dcG"/>
                             <constraint firstItem="ofA-kj-WcX" firstAttribute="top" secondItem="M3n-XY-Yjh" secondAttribute="bottom" id="R8f-U0-ed3"/>
+                            <constraint firstAttribute="trailing" secondItem="M3n-XY-Yjh" secondAttribute="trailing" id="VGM-df-vPr"/>
                             <constraint firstAttribute="trailing" secondItem="M3n-XY-Yjh" secondAttribute="trailing" id="W82-Ud-yby"/>
+                            <constraint firstItem="M3n-XY-Yjh" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="Z5H-J6-3tQ"/>
                             <constraint firstItem="M3n-XY-Yjh" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="ZBb-RK-xKT"/>
                             <constraint firstAttribute="bottom" secondItem="ofA-kj-WcX" secondAttribute="bottom" id="jKY-Qf-k8a"/>
                         </constraints>
