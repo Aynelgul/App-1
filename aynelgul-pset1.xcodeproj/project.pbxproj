@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					85F521D81DC8A9FB0009D48A = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 372D866T32;
 						ProvisioningStyle = Automatic;
 					};
 					85F521EC1DC8AA000009D48A = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 372D866T32;
 				INFOPLIST_FILE = "aynelgul-pset1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nl.mprog.aynelgul-pset1";
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 372D866T32;
 				INFOPLIST_FILE = "aynelgul-pset1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nl.mprog.aynelgul-pset1";
@@ -505,6 +508,7 @@
 				85F522031DC8AA000009D48A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		85F522041DC8AA000009D48A /* Build configuration list for PBXNativeTarget "aynelgul-pset1Tests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +517,7 @@
 				85F522061DC8AA000009D48A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		85F522071DC8AA000009D48A /* Build configuration list for PBXNativeTarget "aynelgul-pset1UITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +526,7 @@
 				85F522091DC8AA000009D48A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
