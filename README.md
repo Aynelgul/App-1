@@ -8,3 +8,5 @@ An app that displays a “Mr. Potato Head” toy on the screen.
 The toy has several accessories and body parts that can be placed on it, such as eyes, nose, mouth, ears, hat, shoes, and so on.
 
 If you check/uncheck any of the checkboxes below the toy, the corresponding body part or accessory will appear/dissapear.
+
+![ScreenShot](https://github.com/Aynelgul/App-1/blob/master/IMG_6450.PNG?raw=true)
